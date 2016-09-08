@@ -1,7 +1,8 @@
 {
-  "name": "hamcrest/hamcrest"
-    "autoload": {
-      "classmap": ['hamcrest']
-    }
-}
+  "name": "n3phos/hamcrest",
+  "autoload": {
 
+    "classmap": ["hamcrest"]
+
+  }
+}
