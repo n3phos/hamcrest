@@ -1,4 +1,5 @@
 {
+  "name": "hamcrest/hamcrest"
     "autoload": {
       "classmap": ['hamcrest']
     }
