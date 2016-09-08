@@ -1,17 +1,6 @@
-"repositories": [
-  {
-    "type": "package",
-    "package": {
-      "name": "n3phos/hamcrest",
-      "version": "dev-master",
-      "source": {
-        "url": "git@github.com:n3phos/hamcrest.git",
-        "type": "git",
-        "reference": "master"
-      },
-      "autoload": {
-        "classmap": ['hamcrest']
-      }
+{
+    "autoload": {
+      "classmap": ['hamcrest']
     }
-  }
-]
+}
+
